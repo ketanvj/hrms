@@ -1,1 +1,2 @@
-This is a file created in testing branch.
+This is a file created in testing branch. Modifed in master branch
+Added in master branch.
